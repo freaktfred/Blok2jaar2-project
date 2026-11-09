@@ -4,4 +4,4 @@ een platform waar je website domeinen kan kopen om te hosten om een website te k
 2. Vertel welke domeinnaam jij gekozen hebt en hoe je die hebt gekoppeld aan jouw pagina.
 mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm.nl ik vond het grappig dat je het juiste aantal m's moet typen om de website te kunnen openen veel stappen in dlo te volgen 
 3. Beschrijf hoe je aanpassingen aan jouw pagina kunt maken en hoe je er voor zorgt dat die op het web gepubliceerd worden.
-dat weet ik nog niet ik moest wachten
+code aanpassen in vscode omdat die gelinked is aan mijn domein naam
