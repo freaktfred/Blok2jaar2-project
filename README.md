@@ -14,3 +14,5 @@ het is een persoonlijke website dat niet op andere bedrijven afhangt om
 6 verschilelnde factoren hoe fluide het is hoe interactief het is hoe toegangelijk het is hoe veel dat a het op neemt en hoe expresief het is en heo leuk verassend het is 
 
 3.Vertel waar jij mee aan de slag wilt gaan bij het maken van jouw eigen digital garden (let op: dit zijn jouw eerste ideeën, dit kan en mag veranderen in de loop van het programma.
+https://ky.fyi/
+https://timobecker.com/
