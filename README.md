@@ -1,4 +1,5 @@
-9-11
+<details>
+<summary>9-11</summary>
 
 1. Leg uit wat een source hosting platform is en voor welke jij gekozen hebt.
    een platform waar je website domeinen kan kopen om te hosten om een website te krijgen
@@ -18,5 +19,18 @@
 3.Vertel waar jij mee aan de slag wilt gaan bij het maken van jouw eigen digital garden (let op: dit zijn jouw eerste ideeën, dit kan en mag veranderen in de loop van het programma.
 https://ky.fyi/
 https://timobecker.com/
+
+18-11
 <img src="readme-images/WhatsApp Image 2026-11-18 at 12.05.42.jpeg" alt ="foto crazy8" witdh="600">
-ik heb hier 8 verschillende ideeën verzonnen voor de digtal garden. de eerste paar zijn een beetj basic door te spelen met de locatie van de elementen
+ik heb hier 8 verschillende ideeën verzonnen voor de digtal garden. de eerste paar zijn een beetj basic door te spelen met de locatie van de elementen. daarna was ik wat origneler met de ideeen. Nummer 5 is bijvoorbeeld een film rol wat je uit rolt om mijn mening te zien en nummer 7 is dat je informatie ziet op een bioscoopscherm.
+
+Mijn tafelgenoten vonden nummer 5 en 7 ook het mooist en orgineelst dus ik ga kijken of ik daar iets mee kan doen voor css.
+
+</details>
+
+<details>
+<summary>Klik hier voor meer informatie</summary>
+
+Deze tekst is verstopt totdat je op het pijltje klikt.
+
+</details>
