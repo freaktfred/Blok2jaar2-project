@@ -21,7 +21,7 @@ code aanpassen in vscode omdat die gelinked is aan mijn domein naam
 https://ky.fyi/
 https://timobecker.com/
 
-</details>
+</details>ds
 <details>
 <summary>18-11</summary>
 <img src="readme-images/WhatsApp Image 2026-11-18 at 12.05.42.jpeg" alt ="foto crazy8" witdh="600">
