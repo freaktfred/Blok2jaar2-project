@@ -18,4 +18,5 @@
 3.Vertel waar jij mee aan de slag wilt gaan bij het maken van jouw eigen digital garden (let op: dit zijn jouw eerste ideeën, dit kan en mag veranderen in de loop van het programma.
 https://ky.fyi/
 https://timobecker.com/
-<img src="readme-images/WhatsApp Image 2026-11-18 at 12.05.42.jpeg" alt ="foto crazy8" witdh="800">
+<img src="readme-images/WhatsApp Image 2026-11-18 at 12.05.42.jpeg" alt ="foto crazy8" witdh="600">
+ik heb hier 8 verschillende ideeën verzonnen voor de digtal garden. de eerste paar zijn een beetj basic door te spelen met de locatie van de elementen
