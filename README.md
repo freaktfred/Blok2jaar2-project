@@ -6,11 +6,12 @@
 2. Vertel welke domeinnaam jij gekozen hebt en hoe je die hebt gekoppeld aan jouw pagina.
    mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm.nl ik vond het grappig dat je het juiste aantal m's moet typen om de website te kunnen openen veel stappen in dlo te volgen
 3. Beschrijf hoe je aanpassingen aan jouw pagina kunt maken en hoe je er voor zorgt dat die op het web gepubliceerd worden.
-   code aanpassen in vscode omdat die gelinked is aan mijn domein naam
+code aanpassen in vscode omdat die gelinked is aan mijn domein naam
+</details>
+<details>
+<summary>16-11</summary>
 
-16-11
-
-1. Leg uit wat een digital garden is en waarom dat anders is dan een reguliere website.
+4. Leg uit wat een digital garden is en waarom dat anders is dan een reguliere website.
    het is een persoonlijke website dat niet op andere bedrijven afhangt om
 
 2.Leg uit wat een website 'webby' maakt en welke websites jou het meeste inspireren.
@@ -20,17 +21,12 @@
 https://ky.fyi/
 https://timobecker.com/
 
-18-11
+</details>
+<details>
+<summary>18-11</summary>
 <img src="readme-images/WhatsApp Image 2026-11-18 at 12.05.42.jpeg" alt ="foto crazy8" witdh="600">
 ik heb hier 8 verschillende ideeën verzonnen voor de digtal garden. de eerste paar zijn een beetj basic door te spelen met de locatie van de elementen. daarna was ik wat origneler met de ideeen. Nummer 5 is bijvoorbeeld een film rol wat je uit rolt om mijn mening te zien en nummer 7 is dat je informatie ziet op een bioscoopscherm.
 
 Mijn tafelgenoten vonden nummer 5 en 7 ook het mooist en orgineelst dus ik ga kijken of ik daar iets mee kan doen voor css.
-
-</details>
-
-<details>
-<summary>Klik hier voor meer informatie</summary>
-
-Deze tekst is verstopt totdat je op het pijltje klikt.
 
 </details>
