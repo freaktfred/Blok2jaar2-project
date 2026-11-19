@@ -21,12 +21,24 @@ code aanpassen in vscode omdat die gelinked is aan mijn domein naam
 https://ky.fyi/
 https://timobecker.com/
 
-</details>ds
+</details>
 <details>
 <summary>18-11</summary>
 <img src="readme-images/WhatsApp Image 2026-11-18 at 12.05.42.jpeg" alt ="foto crazy8" witdh="600">
 ik heb hier 8 verschillende ideeën verzonnen voor de digtal garden. de eerste paar zijn een beetj basic door te spelen met de locatie van de elementen. daarna was ik wat origneler met de ideeen. Nummer 5 is bijvoorbeeld een film rol wat je uit rolt om mijn mening te zien en nummer 7 is dat je informatie ziet op een bioscoopscherm.
 
 Mijn tafelgenoten vonden nummer 5 en 7 ook het mooist en orgineelst dus ik ga kijken of ik daar iets mee kan doen voor css.
+
+ik heb ook visual research gedaan zie miro
+
+</details>
+<details>
+<summary>19-11</summary>
+<img src="readme-images\Schermafbeelding 2026-11-19 162437.png" alt ="screenshot lettertype" witdh="600">
+<img src="readme-images\Schermafbeelding 2026-11-19 162622.png" alt ="screenshot lettertype" witdh="600">
+<img src="readme-images\Schermafbeelding 2026-11-19 162819.png" alt ="screenshot lettertype" witdh="600">
+<img src="readme-images\Schermafbeelding 2026-11-19 163212.png" alt ="screenshot kleurenpalet" witdh="600">
+<img src="readme-images\Schermafbeelding 2026-11-19 163109.png" alt ="screenshot kleurenpalet" witdh="600">
+<img src="readme-images\Schermafbeelding 2026-11-19 163015.png" alt ="screenshot kleurenpalet" witdh="600">
 
 </details>
