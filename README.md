@@ -42,3 +42,18 @@ ik heb ook visual research gedaan zie miro
 <img src="readme-images\Schermafbeelding 2026-11-19 163015.png" alt ="screenshot kleurenpalet" witdh="600">
 
 </details>
+<details>
+<summary>23-11</summary>
+
+Leg uit wanneer een website 'lelijk' wordt en geef voorbeelden wat je kan doen om deze 'lelijke' onderdelen te fixen?
+lange zinnen die niet responsif zijn
+
+Vertel welke volgende stap je neemt om je website responsive te maken.
+ik ga proberen om het klikbaar t emaken en een een maxwidth toe te voegen om er voor te zorgen dat het voor elke groote scherm werkt
+
+Kun je het ontwerp en de bouw van je eigen Garden (zo uit je hoofd) onderbouwen in Webby vocabulair?
+geen idee hier moet ik nog naar kijken
+
+ik heb in illustrator een film rol gemaakt en geleerd over mask en het substiederen er van om gaten er in te maken om het doorzichtig te maken.
+
+</details>

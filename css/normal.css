@@ -32,7 +32,8 @@ img {
 }
 
 body {
-  font-family: "Comic Relief", system-ui;
+  /* font-family: "Comic Relief", system-ui; */
+  background-color: #e61313;
 }
 
 /**************************
@@ -40,8 +41,65 @@ body {
 **************************/
 
 header {
+  display: flex;
+  li {
+    list-style: none;
+    display: flex;
+    gap: 1rem;
+  }
+}
+main {
+}
+.filmrol {
+  width: 500px;
+  height: 500px;
+  left: -300px;
+  object-fit: cover;
+  position: relative;
+  display: flex;
+  justify-content: left;
+}
+.film {
+  position: relative;
+  display: flex;
+  gap: 12px;
+  padding: 36px 16px;
+  background: #111;
+  width: max-content;
 }
 
+/* perforatiegaten boven en onder */
+.film::before,
+.film::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  height: 36px;
+  background-color: #f006;
+  /* background-image: repeating-linear-gradient(
+    #fff 0 14px,
+    transparent 14px 28px
+  ); */
+
+  background-image: radial-gradient(circle, #fff 7px, rgb(0, 0, 0) 7px);
+  background-position: 7px 0;
+
+  background-size: 30px 36px;
+  /* background-repeat: no-repeat; */
+}
+.film::before {
+  top: 0px;
+}
+.film::after {
+  bottom: 0px;
+}
+
+.frame {
+  width: 140px;
+  height: 100px;
+  background: #888; /* vervang door een afbeelding */
+}
 /**************************
 * MARK: Footer
 **************************/
@@ -52,9 +110,6 @@ footer {
 /**************************
 * MARK: Main
 **************************/
-
-main {
-}
 
 /**************************
 * MARK: Section ...
