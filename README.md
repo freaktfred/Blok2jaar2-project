@@ -56,4 +56,6 @@ geen idee hier moet ik nog naar kijken
 
 ik heb in illustrator een film rol gemaakt en geleerd over mask en het substiederen er van om gaten er in te maken om het doorzichtig te maken.
 
+ik heb ook met linear gradients een film rol gemaakt waar ik dan de teakst en de plaatje op kan etten als je op de metalen film rol hebt geklikt
+
 </details>

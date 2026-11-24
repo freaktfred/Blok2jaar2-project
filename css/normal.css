@@ -10,21 +10,21 @@
 }
 
 /**************************
-* MARK: Custom properties
+* MARK: Algemene styling
 **************************/
 
 html {
   color-scheme: light dark;
 }
 
-/**************************
-* MARK: Algemene Styling
-**************************/
-
 *,
-*::after,
-*::before {
+*::before,
+*::after {
   box-sizing: border-box;
+}
+
+body {
+  background-color: #e61313;
 }
 
 img {
@@ -42,33 +42,59 @@ body {
 
 header {
   display: flex;
+
   li {
     list-style: none;
     display: flex;
     gap: 1rem;
+    list-style: none;
   }
 }
-main {
+
+.rol {
+  position: relative;
 }
+/**************************
+* MARK: Filmrol
+**************************/
 .filmrol {
-  width: 500px;
-  height: 500px;
-  left: -300px;
+  position: relative;
+  z-index: 2;
+  left: -450px;
+  width: 800px;
+  height: 800px;
   object-fit: cover;
-  position: relative;
-  display: flex;
-  justify-content: left;
-}
-.film {
-  position: relative;
-  display: flex;
-  gap: 12px;
-  padding: 36px 16px;
-  background: #111;
-  width: max-content;
+  cursor: pointer;
+  transition: transform 1.2s ease;
 }
 
-/* perforatiegaten boven en onder */
+main:has(#toggle:checked) .filmrol {
+  opacity: 1;
+  pointer-events: auto;
+
+  transform: translateX(800px) rotate(115deg);
+}
+
+/**************************
+* MARK: Film
+**************************/
+
+.film {
+  position: absolute;
+  transform: translate(-800px, 400px);
+  z-index: 1;
+  display: flex;
+  gap: 12px;
+  width: max-content;
+  padding: 128px 32 px;
+  background: #111;
+  opacity: 1;
+  pointer-events: none;
+  transition:
+    transform 0.8s ease,
+    opacity 0.8s ease;
+}
+
 .film::before,
 .film::after {
   content: "";
@@ -77,40 +103,26 @@ main {
   right: 0;
   height: 36px;
   background-color: #f006;
-  /* background-image: repeating-linear-gradient(
-    #fff 0 14px,
-    transparent 14px 28px
-  ); */
-
-  background-image: radial-gradient(circle, #fff 7px, rgb(0, 0, 0) 7px);
+  background-image: radial-gradient(circle, #fff 7px, #000 7px);
   background-position: 7px 0;
-
   background-size: 30px 36px;
-  /* background-repeat: no-repeat; */
+}
+
+main:has(#toggle:checked) .film {
+  opacity: 1;
+  pointer-events: auto;
+  transform: translate(-300px, 300px);
 }
 .film::before {
-  top: 0px;
+  top: 0;
 }
+
 .film::after {
-  bottom: 0px;
+  bottom: 0;
 }
 
 .frame {
-  width: 140px;
-  height: 100px;
-  background: #888; /* vervang door een afbeelding */
+  width: 200px;
+  height: 200px;
+  background: #888;
 }
-/**************************
-* MARK: Footer
-**************************/
-
-footer {
-}
-
-/**************************
-* MARK: Main
-**************************/
-
-/**************************
-* MARK: Section ...
-**************************/
