@@ -66,7 +66,7 @@ ik heb vandaag gewerkt aan het uit rollen en de animatie van de metalen filmrol 
 
 <details>
 <summary>25-11</summary>
-
+ik heb vandaag nieuwe schetsen gemaakt en ontvangen op verschillende gestalt principes
 </details>
 
 <details>
