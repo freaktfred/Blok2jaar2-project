@@ -59,3 +59,16 @@ ik heb in illustrator een film rol gemaakt en geleerd over mask en het substiede
 ik heb ook met linear gradients een film rol gemaakt waar ik dan de teakst en de plaatje op kan etten als je op de metalen film rol hebt geklikt
 
 </details>
+<details>
+<summary>24-11</summary>
+ik heb vandaag gewerkt aan het uit rollen en de animatie van de metalen filmrol en dat de daat werkelijke filmrol er ook nog uitkomt acherna. Ik had aleen een beetje moeite met de groote van de metalen filmrol want wat er achterna moet komen moet wel groot genoeg zijn dat ik er nog wel op kan typen en een plaatje kan zetten maar niet te groot dat het het hele scherm op neemt. of misschien wel dit heb ik nog niet getest of dit te veel is, want ik heb nog steeds dat ik een beetje ruimte te kort heb ik kan ook doen 
+</details>
+
+<details>
+<summary>25-11</summary>
+
+</details>
+
+<details>
+<summary>23-11</summary>
+</details>
