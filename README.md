@@ -43,6 +43,16 @@ ik heb ook visual research gedaan zie miro
 
 </details>
 <details>
+<summary>20-11</summary>
+<img src="readme-images\Schermafbeelding 2026-11-27 091110.png" alt ="flag" witdh="600">
+<img src="readme-images\Schermafbeelding 2026-11-27 091128.png" alt ="flag" witdh="600">
+<img src="readme-images\Schermafbeelding 2026-11-27 091137.png" alt ="flag" witdh="600">
+<img src="readme-images\Schermafbeelding 2026-11-27 091146.png" alt ="flag" witdh="600">
+<img src="readme-images\Schermafbeelding 2026-11-27 091152.png" alt ="flag" witdh="600">
+ik heb geleerd over transparent en de andere gradients en hoe je die moet gebruiken het is nog niet gelukt om te leren over before en after te leren. maar wel om een een moeilijke vlag te maken namelijk de flag van monaco.
+
+</details>
+<details>
 <summary>23-11</summary>
 
 Leg uit wanneer een website 'lelijk' wordt en geef voorbeelden wat je kan doen om deze 'lelijke' onderdelen te fixen?
@@ -61,7 +71,11 @@ ik heb ook met linear gradients een film rol gemaakt waar ik dan de teakst en de
 </details>
 <details>
 <summary>24-11</summary>
-ik heb vandaag gewerkt aan het uit rollen en de animatie van de metalen filmrol en dat de daat werkelijke filmrol er ook nog uitkomt acherna. Ik had aleen een beetje moeite met de groote van de metalen filmrol want wat er achterna moet komen moet wel groot genoeg zijn dat ik er nog wel op kan typen en een plaatje kan zetten maar niet te groot dat het het hele scherm op neemt. of misschien wel dit heb ik nog niet getest of dit te veel is, want ik heb nog steeds dat ik een beetje ruimte te kort heb ik kan ook doen 
+ik heb vandaag gewerkt aan het uit rollen en de animatie van de metalen filmrol en dat de daat werkelijke filmrol er ook nog uitkomt acherna. Ik had aleen een beetje moeite met de groote van de metalen filmrol want wat er achterna moet komen moet wel groot genoeg zijn dat ik er nog wel op kan typen en een plaatje kan zetten maar niet te groot dat het het hele scherm op neemt. of misschien wel dit heb ik nog niet getest of dit te veel is, want ik heb nog steeds dat ik een beetje ruimte te kort heb ik kan ook doen
+<img src="readme-images\Schermafbeelding 2026-11-23 151251.png" alt ="flag" witdh="600"> 
+<img src="readme-images\Schermafbeelding 2026-11-23 151258.png" alt ="flag" witdh="600"> 
+<img src="readme-images\Schermafbeelding 2026-11-24 162537.png" alt ="flag" witdh="600"> 
+<img src="readme-images\Schermafbeelding 2026-11-24 164441.png" alt ="flag" witdh="600"> 
 </details>
 
 <details>
@@ -80,6 +94,10 @@ witruimte
 
 </details>
 
+<details>
+<summary>26-11</summary>
+ik vandaag niet heel veel tijd dus ik de code op geschoon door de tijdelijke divjes weg te halen en geprobeerd om de do and dont te gerbruiken en en ik heb  nog een film rol toe te voegen 
+</details>
 <details>
 <summary>23-11</summary>
 
