@@ -86,7 +86,7 @@ main:has(#toggle:checked) .filmrol {
 .film {
   position: absolute;
   transform: translate(-100em, 11em);
-  z-index: 1;
+  z-index: 0;
   display: flex;
   gap: 12px;
   width: max-content;
@@ -131,4 +131,26 @@ main:has(#toggle:checked) .film {
   width: 400px;
   height: 300px;
   background: #888;
+}
+
+.rol2 {
+  transform: translate(0px, -350px);
+}
+.film2 {
+  transform: translate(90em, 11em);
+  padding-right: 32px;
+  padding-left: 256px;
+}
+.filmrol2 {
+  transform: translateX(1450px);
+}
+main:has(#toggle:checked) .filmrol2 {
+  opacity: 1;
+  pointer-events: auto;
+  transform: translateX(2em) rotate(-180deg);
+}
+main:has(#toggle:checked) .film2 {
+  opacity: 1;
+  pointer-events: auto;
+  transform: translate(2em, 11em);
 }
