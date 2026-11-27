@@ -36,7 +36,11 @@ body {
   overflow-x: clip;
   background-color: #e61313;
 }
-
+ul {
+  list-style: none;
+  padding: 0; /* haalt ook de standaard inspringing weg */
+  margin: 0;
+}
 /**************************
 * MARK: Header
 **************************/
@@ -81,7 +85,7 @@ main:has(#toggle:checked) .filmrol {
 
 .film {
   position: absolute;
-  transform: translate(-2350px, 190px);
+  transform: translate(-100em, 11em);
   z-index: 1;
   display: flex;
   gap: 12px;
@@ -113,7 +117,7 @@ main:has(#toggle:checked) .filmrol {
 main:has(#toggle:checked) .film {
   opacity: 1;
   pointer-events: auto;
-  transform: translate(-900px, 190px);
+  transform: translate(-10em, 11em);
 }
 .film::before {
   top: 0;

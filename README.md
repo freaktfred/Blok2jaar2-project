@@ -67,8 +67,20 @@ ik heb vandaag gewerkt aan het uit rollen en de animatie van de metalen filmrol 
 <details>
 <summary>25-11</summary>
 ik heb vandaag nieuwe schetsen gemaakt en ontvangen op verschillende gestalt principes
+
+Noem 3 Gestalt- of Design principes op en laat de ander uitleggen wat ze betekenen en doen.
+nabijheid gelijkheid doorzetting
+
+Een grid biedt ruimte om te spelen (vrijheid), maar tegelijkertijd ook eenheid en structuur (vastigheid). Wat wordt hiermee bedoeld?
+
+dat het de structuur van de website veranderd aan de hand van wat je doet met de ruimte tussen de elementen
+
+Welk principe neem je mee in een laatste iteratie van je eigen Garden?
+witruimte
+
 </details>
 
 <details>
 <summary>23-11</summary>
+
 </details>
